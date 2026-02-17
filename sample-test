@@ -11,5 +11,5 @@ pipeline {
                 sh 'mvn package'
                 sh 'mvn install'
             
-    
+    }
 
