@@ -10,7 +10,6 @@ pipeline {
                 sh 'mvn test'
                 sh 'mvn package'
                 sh 'mvn install'
-            }
-        
+            
     
 
